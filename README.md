@@ -13,7 +13,7 @@ cd steps
 npm install
 ```
 
-## how to run it after clon:
+## how to run it after clone:
 open terminal and:
 ```bash
 npm start
